@@ -1,1 +1,3 @@
-Coding challenge for intermedate dev (uvact-live-code-challenge-session2-intermediate-dev)
+## UVACT Coding challenge for an intermediate developer
+
+
