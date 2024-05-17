@@ -12,3 +12,7 @@ Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERM
 
 
 <img width="400" alt="ui ux auth" src="https://github.com/5ylvino/5ylvino.github.io/assets/61919575/40954a6a-f827-4962-81ee-1ec7cff85c3a">
+
+
+- Your code should be concise, maintainable, and clean, then perfect pitched UI;  
+- Push all changes to a repo and share the link with us when you are done on or before 06:00 am MON 20TH MAY, 20224. Any change, after that time 06:00 am on Monday will have an impact on your performance.
