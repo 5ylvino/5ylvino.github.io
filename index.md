@@ -7,7 +7,7 @@ Q2b). validation on register and login should be customized. And after filling i
 Q2c). Your register form should utilize all the input types you customized earlier.  
 Q2d). The design pattern should follow the sample below for registration, login, and OTP. And that of success free for style and pitch as you desire. \
 Q2c). Use the Image component with the different circle images to build and layer the design. As well as the logo. 
-Q2e). Where we have REACT NATIVE STARTER, for login and OTP it should MASTERY LEVEL ACTIVE. 
+Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERMEDIATE LEVEL ACTIVE. 
 
 
 <img width="400" alt="ui ux auth" src="https://github.com/5ylvino/5ylvino.github.io/assets/61919575/40954a6a-f827-4962-81ee-1ec7cff85c3a">
