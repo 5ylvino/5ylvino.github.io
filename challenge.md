@@ -15,4 +15,4 @@ Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERM
 
 
 - Your code should be concise, maintainable, and clean, then perfect pitched UI;  
-- Push all changes to a repo and share the link with us when you are done on or before 06:00 am MON 20TH MAY, 20224. Any change, after that time 06:00 am on Monday will have an impact on your performance.
+- Push all changes to a repo and share the link with us when you are done on or before 06:00 am MON 20TH MAY, 20224. Any change, after that time 06:00 am on Monday, will have an impact on your performance.
