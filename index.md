@@ -6,7 +6,7 @@ Q2a). Using your CUSTOMIZE INPUT to create a register, login, OTP, and success s
 Q2b). validation on register and login should be customized. And after filling in the forms it takes the user to the OTP screen. Then the user should enter any 6 digits ONLY and should automatically take the user to a success screen where the user's details are shown from local storage, which was stored during registration.
 Q2c). Your register form should utilize all the input types you customized earlier.  
 Q2d). The design pattern should follow the sample below for registration, login, and OTP. And that of success free for style and pitch as you desire. \
-Q2c). Use the Image component with the different circle images to build and layer the design. As well as the logo. 
+Q2c). Use the Image component with the different circle images to build and lay the design. As well as the logo. 
 Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERMEDIATE LEVEL ACTIVE. 
 
 
