@@ -1,4 +1,5 @@
-##UVACT Coding challenge for an intermediate developer 
+## UVACT##
+### Coding challenge for an intermediate developer ###
 
 Q1. Without using any library in a type-scripted bare react native app, customize ONLY ONE INPUT, which can be re-used for text and number inputs, text inputs ONLY, numbers input ONLY, select input, password input, 6 digits OTP input, date input (3boxes on YYY, MM, DD and output should be formatted as YYYY/MM/DD.  
 
