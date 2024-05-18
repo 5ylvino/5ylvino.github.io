@@ -1,16 +1,16 @@
 ## UVACT ##
 ### Coding challenge for an intermediate developer ###
 
-Q1. Without using any library in a type-scripted bare react native app, customize ONLY ONE INPUT, which can be re-used for text and number inputs, text inputs ONLY, numbers input ONLY, select input, password input, 6 digits OTP input, date input (3boxes on YYY, MM, DD, and output should be formatted as YYYY/MM/DD, With their respective validations for all potentials. 
+Q1. Without using any library in a type-scripted bare react native app, customize ONLY ONE INPUT, which can be re-used for text and number inputs, text inputs ONLY, numbers input ONLY, select input, password input, 6 digits OTP input, date input (3boxes on YYY, MM, DD, and output should be formatted as YYYY/MM/DD, With their respective validations for all potentials cases. 
 
 
 Q2a). Using your CUSTOMIZE INPUT to create a register, login, OTP, and success screen.   
 
-Q2b). validation on register and login should be customized. And after filling in the forms it takes the user to the OTP screen. Then the user should enter any 6 digits ONLY and should automatically take the user to a success screen where the user's details are shown from local storage, which was stored during registration. 
+Q2b). validation on register and login should be customized. And after filling in the forms it takes the user to the OTP screen. Then the user should enter any 6 digits ONLY and should automatically take the user to a dashboard/profile screen where the user's details are shown from local storage, which was stored during registration. 
 
 Q2c). Your register form should utilize all the input types you customized earlier.   
 
-Q2d). The design pattern should follow the sample below for registration, login, and OTP. And that of success free for style and pitch as you desire.  
+Q2d). The design pattern should follow the sample below for registration, login, and OTP. The dashboard/profile screen should follow the profile design pattern perfectly.  
 
 Q2c). Use the View component with the different given-colored circles as shown on the given design to build and lay out the pattern of the design. As well as the logo and others.
 
@@ -18,7 +18,9 @@ Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERM
 
 
 <img width="400" alt="ui ux auth" src="https://github.com/5ylvino/5ylvino.github.io/assets/61919575/40954a6a-f827-4962-81ee-1ec7cff85c3a">
+<img width="400" alt="ui ux auth" src="https://github.com/5ylvino/5ylvino.github.io/assets/61919575/1ceda633-bb69-4ff0-9cbc-8f7775c266fc">
 
 
-- Your code should be concise, maintainable, and clean, then perfect pitched UI;  
+
+- Your code should be concise, maintainable, and clean, and a perfectly pitched UI UX to match that of the sample design;  
 - Push all changes to a repo and share the link with us when you are done on or before 06:00 am MON 20TH MAY, 20224. Any change, after that time 06:00 am on Monday, will have an impact on your performance.
