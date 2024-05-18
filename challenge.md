@@ -1,7 +1,7 @@
 ## UVACT ##
 ### Coding challenge for an intermediate developer ###
 
-Q1. Without using any library in a type-scripted bare react native app, customize ONLY ONE INPUT, which can be re-used for text and number inputs, text inputs ONLY, numbers input ONLY, select input, password input, 6 digits OTP input, date input (3boxes on YYY, MM, DD, and output should be formatted as YYYY/MM/DD, With their respective validations for all potentials cases. 
+Q1. Without using any library in a type-scripted bare react native app, customize ONLY ONE INPUT, which can be re-used for text and number inputs, text inputs ONLY, numbers input ONLY, select input, password input, 6 digits OTP input, date input (3boxes on YYY, MM, DD, and output should be formatted as YYYY/MM/DD, With their respective validations for all potential cases. 
 
 
 Q2a). Using your CUSTOMIZE INPUT to create a register, login, OTP, and success screen.   
@@ -24,3 +24,4 @@ Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERM
 
 - Your code should be concise, maintainable, and clean, and a perfectly pitched UI UX to match that of the sample design;  
 - Push all changes to a repo and share the link with us when you are done on or before 06:00 am MON 20TH MAY, 20224. Any change, after that time 06:00 am on Monday, will have an impact on your performance.
+- All associate validation for different input cases as well as form cases must be fully available. 
