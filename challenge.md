@@ -12,7 +12,7 @@ Q2c). Your register form should utilize all the input types you customized earli
 
 Q2d). The design pattern should follow the sample below for registration, login, and OTP. The dashboard/profile screen should follow the profile design pattern perfectly.  
 
-Q2c). Use the View component with the different given-colored circles as shown on the given design to build and lay out the pattern of the design. As well as the logo and others.
+Q2c). Use the View component with the different given-colored circles as shown on the given design to build and lay out the pattern of the design. As well as the logo and other things.
 
 Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERMEDIATE LEVEL ACTIVE. 
 
