@@ -23,5 +23,5 @@ Q2e). Where we have REACT NATIVE STARTER, for login and OTP, it should be INTERM
 
 
 - Your code should be concise, maintainable, and clean, and a perfectly pitched UI UX to match that of the sample design;  
-- Push all changes to a repo and share the link with us when you are done on or before 24hrs elapsed. Any change, after 24hrs, you will be disqualified.
+- Push all changes to a repo and share the link with us when you are done on or before 24hrs elapsed. Any change, after 24hrs, will disqualify you.
 - All associate validation for different input cases as well as form cases must be fully available. 
